@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Vendas de Carros",
+  "description": "Painel interativo com estatísticas de patamares de vendas de carros nacionais e globais, tendências de mercado e comparativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
